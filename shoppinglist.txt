@@ -4,3 +4,6 @@ sugar
 beer
 vodka
 butter
+milk
+banana
+icecream
