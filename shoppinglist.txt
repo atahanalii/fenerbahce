@@ -1,3 +1,5 @@
 my shopping list
 milk
 sugar
+beer
+vodka
